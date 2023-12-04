@@ -21,7 +21,7 @@
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
-  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
+  <a href="[https://github.com/GaLaXy-SaMp](https://github.com/GaLaXy-SaMp)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
