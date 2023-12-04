@@ -26,6 +26,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/GaLaXy-SaMp/GaLaXy-SaMp/blob/output/github-contribution-grid-snake.svg)
 
 <br>
