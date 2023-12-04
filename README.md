@@ -28,6 +28,6 @@
 
 
  <i> May the force be with you!⭐️</i> <br> <br>
- <img src="https://github.com/GaLaXy-SaMp/GaLaXy-SaMp/blob/main/z_Pixel-Art-Star-Wars-Animation.gif" width="220">
+ <img src="https://github.com/GaLaXy-SaMp/GaLaXy-SaMp/blob/main/z_Pixel-Art-Star-Wars-Animation.gif" width="880">
 
 <br>
