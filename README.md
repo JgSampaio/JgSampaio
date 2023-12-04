@@ -27,4 +27,7 @@
 </div>
 
 
+ <i> May the force be with you!⭐️</i> <br> <br>
+ <img src="https://github.com/GaLaXy-SaMp/GaLaXy-SaMp/blob/main/Fire-Pixel.gif" width="220">
+
 <br>
