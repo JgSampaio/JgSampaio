@@ -22,8 +22,8 @@
   
 <div>
   <a href="[https://github.com/GaLaXy-SaMp](https://github.com/GaLaXy-SaMp)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoSampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSampaio&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GaLaXy-SaMp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaLaXy-SaMp&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 
