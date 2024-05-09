@@ -22,12 +22,12 @@
   
 <div>
   <a href="[https://github.com/GaLaXy-SaMp](https://github.com/GaLaXy-SaMp)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GaLaXy-SaMp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaLaXy-SaMp&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JgSampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JgSampaio&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
  ##
  <i> May the force be with you!⭐️</i> <br> <br>
- <img src="https://github.com/GaLaXy-SaMp/GaLaXy-SaMp/blob/main/z_Pixel-Art-Star-Wars-Animation.gif" width="440">
+ <img src="https://github.com/JgSampaio/JgSampaio/blob/main/z_Pixel-Art-Star-Wars-Animation.gif" width="440">
 
 <br>
